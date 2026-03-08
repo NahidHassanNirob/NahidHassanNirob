@@ -2,7 +2,7 @@
 
 I am a passionate **MERN Stack Developer** dedicated to building fast, scalable, and user-centric web applications. I focus on writing clean, efficient code and transforming complex ideas into production-ready products.
 
-### 🛠️ Technical Toolbox
+###  Technical Toolbox
 
 <p align="left">
   <a href="https://github.com/NahidHassanNirob"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" /></a>
@@ -15,23 +15,23 @@ I am a passionate **MERN Stack Developer** dedicated to building fast, scalable,
   <a href="https://github.com/NahidHassanNirob"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a>
 </p>
 
-### 🔭 What I'm Currently Working On
+###  What I'm Currently Working On
 * 🚀 Developing full-stack applications with the **MERN Stack**.
 * 🌐 Optimizing web performance and SEO using **Next.js**.
 * ⚡ Implementing secure authentication and scalable database architectures.
 
 ---
 
-### 📊 GitHub Activity
+###  GitHub Activity
 <p align="left">
   <a href="https://github.com/NahidHassanNirob"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NahidHassanNirob&theme=tokyonight&hide_border=true" alt="Nirob's Activity" /></a>
 </p>
 
 ---
 
-### 📫 Let's Connect!
-* 💼 **LinkedIn:** [linkedin.com/in/nirob-hossen](https://linkedin.com/in/nirob-hossen)
-* 📧 **Email:** [nirobhossen.dev@gmail.com](mailto:nirobhossen.dev@gmail.com)
-* 🐙 **GitHub:** [github.com/NahidHassanNirob](https://github.com/NahidHassanNirob)
+###  Let's Connect!
+*  **LinkedIn:** [linkedin.com/in/nirob-hossen](https://linkedin.com/in/nirob-hossen)
+*  **Email:** [nirobhossen.dev@gmail.com](mailto:nirobhossen.dev@gmail.com)
+*  **GitHub:** [github.com/NahidHassanNirob](https://github.com/NahidHassanNirob)
 
-*"I believe in 'Learning in Public' and building products that make a real impact through technology."*
+
