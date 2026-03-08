@@ -1,4 +1,4 @@
-# Hi there, I'm <h1 style="display:inline-block; vertical-align:middle; margin:0;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=38B2AC&width=435&lines=Nirob+Hossen;MERN+Stack+Developer;Full-Stack+Web+Developer"👋 /></h1>
+# Hi there, I'm <h1 style="display:inline-block; vertical-align:middle; margin:0;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=38B2AC&width=435&lines=Nirob+Hossen;MERN+Stack+Developer;Full-Stack+Web+Developer"/></h1>👋
 
 I am a passionate **MERN Stack Developer** dedicated to building fast, scalable, and user-centric web applications. I focus on writing clean, efficient code and transforming complex ideas into production-ready products.
 
