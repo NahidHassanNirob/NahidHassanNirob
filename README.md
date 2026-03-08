@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Nirob Hossen 👋
 
-<!--
-**NahidHassanNirob/NahidHassanNirob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **MERN Stack Developer** dedicated to building fast, scalable, and user-centric web applications. I focus on writing clean, efficient code and transforming complex ideas into production-ready products.
 
-Here are some ideas to get you started:
+### 🛠️ Technical Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Frontend:** React, Next.js, Redux, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
+* **Backend:** Node.js, Express.js, REST API, JWT Authentication
+* **Database:** MongoDB
+* **Tools & Deployment:** Git, GitHub, VS Code, Postman, Firebase, Vercel, Netlify
+
+### 🔭 What I'm Currently Working On
+* 🚀 Developing full-stack applications with the **MERN Stack**.
+* 🌐 Optimizing web performance and SEO using **Next.js**.
+* ⚡ Implementing secure authentication and scalable database architectures.
+
+### 📊 GitHub Statistics
+![Nirob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NahidHassanNirob&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NahidHassanNirob&layout=compact&theme=radical&hide_border=true)
+
+---
+
+### 📫 Let's Connect!
+* 💼 **LinkedIn:** [linkedin.com/in/nirob-hossen](https://linkedin.com/in/nirob-hossen)
+* 📧 **Email:** [nirobhossen.dev@gmail.com](mailto:nirobhossen.dev@gmail.com)
+* 🐙 **GitHub:** [github.com/NahidHassanNirob](https://github.com/NahidHassanNirob)
+
+*"I believe in 'Learning in Public' and building products that make a real impact through technology."*
