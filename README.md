@@ -5,6 +5,7 @@ I am a passionate **MERN Stack Developer** dedicated to building fast, scalable,
 ### 🛠️ Technical Toolbox
 
 <p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -23,7 +24,7 @@ I am a passionate **MERN Stack Developer** dedicated to building fast, scalable,
 
 ### 📊 GitHub Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NahidHassanNirob&show_icons=true&theme=tokyonight&hide_border=true" alt="Nirob's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NahidHassanNirob&theme=tokyonight&hide_border=true" alt="Nirob's GitHub Activity" />
 </p>
 
 ---
