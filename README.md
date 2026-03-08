@@ -1,4 +1,4 @@
-# <div style="display:flex; justify-items:center; gap:10px"><h1>Hi there, I'm</h1> <h1 style="display:inline-block; vertical-align:middle; margin:0;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=38B2AC&width=435&lines=Nirob+Hossen;MERN+Stack+Developer;Full-Stack+Web+Developer"/></h1>👋</div> 
+# Hi there, I'm <a href="https://github.com/NahidHassanNirob"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38B2AC&width=450&lines=Nirob+Hossen;MERN+Stack+Developer;Full-Stack+Web+Developer" alt="Typing SVG" /></a>
 
 <a href="https://github.com/NahidHassanNirob"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=false&vCenter=true&width=435&lines=Nirob+Hossen;MERN+Stack+Developer;Full-Stack+Web+Developer" alt="Typing SVG" align="center" /></a>
 
