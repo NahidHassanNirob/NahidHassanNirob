@@ -14,9 +14,6 @@ I am a passionate **MERN Stack Developer** dedicated to building fast, scalable,
 * 🌐 Optimizing web performance and SEO using **Next.js**.
 * ⚡ Implementing secure authentication and scalable database architectures.
 
-### 📊 GitHub Statistics
-![Nirob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NahidHassanNirob&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NahidHassanNirob&layout=compact&theme=radical&hide_border=true)
 
 ---
 
