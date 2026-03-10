@@ -21,7 +21,6 @@ I am a passionate **MERN Stack Developer** dedicated to building fast, scalable,
 * 🌐 Optimizing web performance and SEO using **Next.js**.
 * ⚡ Implementing secure authentication and scalable database architectures.
 
----
 
 ---
 
