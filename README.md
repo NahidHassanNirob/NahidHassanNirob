@@ -23,11 +23,6 @@ I am a passionate **MERN Stack Developer** dedicated to building fast, scalable,
 
 ---
 
-###  GitHub Activity
-<p align="left">
-  <a href="https://github.com/NahidHassanNirob"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NahidHassanNirob&theme=tokyonight&hide_border=true" alt="Nirob's Activity" /></a>
-</p>
-
 ---
 
 ###  Let's Connect!
